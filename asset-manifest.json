@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple-learning-tracker/static/css/main.414f32ca.css",
+    "main.js": "/simple-learning-tracker/static/js/main.807f8cf1.js",
+    "static/js/453.9ba393e9.chunk.js": "/simple-learning-tracker/static/js/453.9ba393e9.chunk.js",
+    "static/media/logo.svg": "/simple-learning-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/simple-learning-tracker/index.html",
+    "main.414f32ca.css.map": "/simple-learning-tracker/static/css/main.414f32ca.css.map",
+    "main.807f8cf1.js.map": "/simple-learning-tracker/static/js/main.807f8cf1.js.map",
+    "453.9ba393e9.chunk.js.map": "/simple-learning-tracker/static/js/453.9ba393e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.414f32ca.css",
+    "static/js/main.807f8cf1.js"
+  ]
+}
